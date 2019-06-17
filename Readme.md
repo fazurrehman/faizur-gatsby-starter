@@ -14,10 +14,21 @@ Step 1
 gatsby new my-project "https://github.com/fazurrehman/faizur-gatsby-starter"
 ```
 
+Then Follow these steps
+
+```bash
+Install all dependencies
+- npm install
+
+Run Gatsby
+gatsby develop
+
+```
+
 Step 2
 
 ```bash
-npm install
+gatsby
 ```
 
 ## Plugins

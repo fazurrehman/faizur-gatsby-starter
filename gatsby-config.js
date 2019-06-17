@@ -22,8 +22,8 @@ module.exports = {
         ],
         precision: 8,
         cssLoaderOptions: {
-          localIdentName: "[name]__[local]--[hash:base64:5]",
-          // localIdentName: "[hash:base64:5]",
+          // localIdentName: "[name]__[local]--[hash:base64:5]",
+          localIdentName: "[hash:base64:5]",
         },
       },
     },
