@@ -8,7 +8,7 @@ I am Full Stack Designer, I create website, app, & business applications
 
 Get started your work directly from here without installing anything just one step!
 
-Step 1
+Create new project by following!
 
 ```bash
 gatsby new my-project "https://github.com/fazurrehman/faizur-gatsby-starter"
@@ -18,10 +18,10 @@ Then Follow these steps
 
 ```bash
 Install all dependencies
-##### npm install
+npm install
 
 Run Gatsby
-##### gatsby develop
+gatsby develop
 
 ```
 
