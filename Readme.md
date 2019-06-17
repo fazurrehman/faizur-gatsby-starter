@@ -17,10 +17,10 @@ gatsby new my-project "https://github.com/fazurrehman/faizur-gatsby-starter"
 Then Follow these steps
 
 ```bash
-Install all dependencies
+# Install all dependencies
 npm install
 
-Run Gatsby
+# Run Gatsby
 gatsby develop
 
 ```
