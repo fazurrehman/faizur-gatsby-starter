@@ -18,17 +18,11 @@ Then Follow these steps
 
 ```bash
 Install all dependencies
-- npm install
+##### npm install
 
 Run Gatsby
-gatsby develop
+##### gatsby develop
 
-```
-
-Step 2
-
-```bash
-gatsby
 ```
 
 ## Plugins
