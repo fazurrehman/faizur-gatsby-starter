@@ -20,7 +20,7 @@
     "gatsby-source-filesystem": "^2.0.39",
     "gatsby-transformer-sharp": "^2.1.21",
     "modularscale-sass": "^3.0.8",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "postcss": "^7.0.17",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
